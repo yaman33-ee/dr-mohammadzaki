@@ -1,0 +1,46 @@
+body {background-color: #f7f7f7 !important;}
+ 
+ a.nav-link {
+    font-weight: bolder;
+    font-size: 20px;
+    color:white !important;
+}
+
+.aboutDoctor
+{
+    width:98%;
+    border-radius: 50px;
+}
+.Img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+#experties
+{
+    padding:3px;
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  u
+  {
+    text-decoration: underline;
+    font-size: 25px;
+    text-decoration-color: blue;
+  }
+
+u:hover{
+    transform: scale(1.1); 
+    font-size: 30px;
+  }
+
+ 
+
+  
+
+  
